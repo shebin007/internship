@@ -1,0 +1,46 @@
+.banner {
+    width: 100%;
+    height: 100vh;
+    margin: -8px;
+    background-color: black;
+}
+
+.banner-content {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.banner-content h1 {
+
+    color: white;
+}
+
+.banner-content h2 {
+
+    color: white;
+}
+
+.banner-btn {
+    background-color: white;
+    color: black;
+    border-color: white;
+    border-radius: 10;
+    padding: 10px;
+}
+
+.banner-btn-sec {
+    background-color: grey;
+    color: white;
+    border-color: grey;
+    border-radius: 10;
+    padding: 10px;
+
+}
+
+.txt {
+    border-color: white;
+    background-color: white;
+    border-style: none;
+    padding: 10px;
+    margin: 10px;
+}
